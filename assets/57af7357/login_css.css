@@ -1,0 +1,47 @@
+/* CSS Document */
+.content1{ margin-top:10px;}
+.head1{height:65px; border-bottom:6px #005dd4 solid;}
+/* left */
+.login_l{float:left; width:640px;border:1px #e5e5e5 solid;}
+.reg {width:580px;float: right; COLOR: #000; FONT-SIZE: 12px; }
+.reg_title { font-size:20px;color:#2950ab; font-weight:700;margin-bottom:10px;}
+.reg table {MARGIN: 30px 0px 10px 20px}
+.reg table b {COLOR: #ff0000; FONT-WEIGHT:800;font-size:14px;}
+.reg_line {}
+.reg table tr td {VERTICAL-ALIGN: text-top; height:25px;line-height:25px;}
+.reg table tr td strong {DISPLAY: block;FONT-WEIGHT: 300;margin:0px 0 4px 0;}
+.input_tip{color:#666666}
+.gm_login_input { float:left; width:200px; height:18px; border:1px #999 solid; font-size:12px; line-height:18px; padding:1px;}
+.gm_login_input1 { float:left;width:60px; height:18px; border:1px #999 solid; font-size:12px; line-height:18px; padding:1px;}
+.font1{height:31px;float:left;line-height:40px}
+.yz{float:left; margin-left:10px;}
+.bt{margin:10px 65px;}
+.gm_login_bottom {float:left;width:300px;height:50px;overflow:hidden;font-size:12px;color:#ff0000;line-height:24px;border:1px #e5e5e5 solid;
+margin:10px 0;line-height:50px;text-align: center;}
+/* right */
+.login_r{float:right; width:300px;}
+.login_r_t{width:290px;height:20px;float:right;background:#f6f6f6;border-top: 1px #e5e5e5 solid;border-right: 1px #e5e5e5 solid;border-left: 1px #e5e5e5 solid;}
+.login_r_tilte{font-size:8px;width:300px;height:33px;float:right;background:url(images/960_title.gif);background-repeat: no-repeat;background-position:0px -222px;}
+.login_r_tilte h2{line-height:30px;color:#FFFFFF;font-weight:800;text-indent: 20px;}
+.login_r_m{width:290px;float:right;background:#f6f6f6;border-right:1px #e5e5e5 solid;border-left:1px #e5e5e5 solid;border-right:1px #e5e5e5 solid;}
+.login_r_m div{width: 280px; float:right}
+.login_r_m div li{float:left;line-height:28px;width: 250px;list-style-type: none;}
+.reg table tr td a,.login_r_m div li a{color:#2b5db7;text-decoration: underline;}
+.reg table tr td a:hover,.login_r_m div li a:hover{color:#2b5db7;}
+.login_r_m img{DISPLAY: block;float:left;margin: 8px 10px 3px 0px;}
+.login_r_b{width:290px;height:20px;float:right;background:#f6f6f6;border-right:1px #e5e5e5 solid;border-left:1px #e5e5e5 solid;border-bottom:1px #e5e5e5 solid;}
+.left_box{float:left; width:470px;border:1px #e5e5e5 solid; height:240px;}
+.right_box{float:right; width:470px;border:1px #e5e5e5 solid; height:240px;}
+/* 分格 */
+.line_box1{height:6px;overflow:hidden;width:960px;background:#d9d9d9;float:left;_float:none;margin:20px 0;float:left;margin-top:20px; _margin-top:-5px }
+#user_phone_tip{text-align:center;color:#FF0000}
+.user_data_tip{color:#FF0000;font-size:14px;}
+
+
+.l1{float:left;width:90%; height:19px;line-height:19px;border:1px solid #C00;background-color:#ffdbd2;color:#C00;margin-bottom:10px;padding:0 5px;}
+.l2{float:left;width:90%; height:19px;line-height:19px;border:1px solid #759a67;background-color:#fff;color:#759a67;margin-bottom:10px;padding:0 5px;}
+.l3{float:left;width:90%; height:19px;line-height:19px;border:1px solid #759a67;background-color:#d1fdda;color:#759a67;margin-bottom:10px;padding:0 5px;}
+.l4{float:left;height:19px;width:90%; line-height:19px;border:1px solid #9fcf9d;background-color:#d1fdda;color:#9fcf9d;margin-bottom:10px;padding:0 5px;}
+.l5{float:left;height:19px;width:90%; line-height:19px;border:1px solid #86a8b2;background-color:#fff;color:#86a8b2;margin-bottom:10px;padding:0 5px;}
+.l6{float:left;height:19px;width:90%; line-height:19px;border:1px solid #86a8b2;background-color:#d4f0fe;color:#86a8b2;margin-bottom:10px;padding:0 5px;}
+

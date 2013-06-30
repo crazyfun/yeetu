@@ -1,0 +1,82 @@
+.Calendar {
+	font-family: Arial;
+	font-size:12px;
+	text-align:center;
+	width:330px;
+	padding:10px;
+	float:left;
+    
+}
+.Calendar a{
+	color:#1e5494;
+}
+
+.Calendar table{
+	width:100%; 
+	border:1;
+	border-collapse: collapse;
+
+}
+
+.Calendar table thead{font-weight:bold;}
+#idCalendarPre{
+	cursor:pointer;
+	float:left;
+	padding-right:5px;
+}
+#idCalendarNext{
+	cursor:pointer;
+	float:right;
+	padding-right:5px;
+}
+
+#idCalendarPre1{
+	cursor:pointer;
+	float:left;
+	padding-right:5px;
+}
+#idCalendarNext1{
+	cursor:pointer;
+	float:right;
+	padding-right:5px;
+}
+
+
+#idCalendar td.onToday {
+	font-weight:bold;
+	font-size:12px;
+	color:#C60;
+}
+#idCalendar td.onSelect {
+	font-weight:bold;
+}
+
+
+#idCalendar1 td.onToday {
+	font-weight:bold;
+	font-size:12px;
+	color:#C60;
+}
+#idCalendar1 td.onSelect {
+	font-weight:bold;
+}
+
+.text_999999{
+ color:#999999;
+}
+.Calendar table td{
+	height:28px;
+	border:1px solid #CCCCCC;
+	font-size: 11px;
+	padding-top:3px;
+	vertical-align:top;
+}
+
+
+.calendar_trave_date_select{
+	 color:#FF0000;
+}
+
+.trave_seats{
+	color:#ee1122;
+}

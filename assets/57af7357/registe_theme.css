@@ -1,0 +1,188 @@
+
+*{ margin:0px; padding:0px;}
+img{ border:none;}
+body{ font-size:12px; background:#fff url(images/registe_theme/body_bg.jpg) repeat-x;}
+a{ text-decoration:none;}
+.clear_float{ clear:both; height:0px; overflow:hidden;}
+
+.top_con{ height:65px; background:url(images/registe_theme/top_nav_bg.png);}
+.top_nav{ width:960px; height:65px; margin:0px auto; position:relative;}
+.logo_con{ position:absolute; left:20px; top:0px; background:url(images/registe_theme/logo.jpg); width:249px; height:45px; padding:10px;}
+.logo_con a{ display:block; width:249px; height:45px;}
+.nav_div{ font-size:14px; color:#333; background:url(images/registe_theme/tel.png) no-repeat right top; padding-top:40px; padding-right:45px; text-align:right;}
+.nav_div a{ font-size:14px; color:#333; margin:0px 5px;}
+
+.main_con{ background:url(images/registe_theme/main_bg.jpg); width:960px; height:908px; margin:0px auto; position:relative;}
+.reg_bt{ position:absolute; top:268px; left:637px; display:block; width:111px; height:37px;}
+.login_bt{ position:absolute; top:268px; left:764px; display:block; width:111px; height:37px;}
+.main_tab_con{ padding:380px 100px 0px 100px;}
+.main_tab_con td{ width:33.3%;}
+.main_tab_con table td div{ text-indent:14px; color:#A77602; font-size:14px; line-height:28px; height:180px; vertical-align:top; padding:0px 28px 45px 8px;}
+.main_tab_con table td div.text_2{ padding:0px 12px 45px 25px;}
+.main_tab_con table td div.text_3{ padding:0px 0px 45px 40px;}
+
+.help_center{ background:#F7F7F7; border:1px solid #D8D8D8; margin-top:20px; width:958px; margin:15px auto 0px auto;}
+.help_center a{ color:#676767;}
+.help_con{ border:1px solid #fff; padding-bottom:15px;}
+.help_con dl{ width:135px; padding-left:56px; padding-top:15px; float:left;}
+.help_center .h_dl_title a{ font-family:微软雅黑; font-size:16px; color:#9E0657;}
+.h_dl1{ background:url(images/registe_theme/h_pic1.png) no-repeat 12px 10px;}
+.help_con dl dd{margin-top:5px;}
+.h_dl2{ background:url(images/registe_theme/h_pic2.png) no-repeat 12px 10px;}
+.h_dl3{ background:url(images/registe_theme/h_pic3.png) no-repeat 12px 10px;}
+.h_dl4{ background:url(images/registe_theme/h_pic4.png) no-repeat 12px 10px;}
+.h_dl5{ background:url(images/registe_theme/h_pic5.png) no-repeat 12px 10px;}
+
+.footer_div,.footer_div,.footer_div{ text-align:center; line-height:22px; color:#666;}
+.footer_div a{ color:#666;}
+
+
+
+.float0831 {
+	POSITION: fixed; TOP: 280px; RIGHT: 1px; _position: absolute;_top:expression(offsetParent.scrollTop+280); _right:1px;
+}
+.float0831 A {
+	COLOR: #00a0e9
+}
+.float0831 A:hover {
+	COLOR: #ff8100; TEXT-DECORATION: none
+}
+.float0831 .floatL {
+	POSITION: relative; WIDTH: 28px; FLOAT: left
+}
+.float0831 .floatL A {
+	TEXT-INDENT: -9999px; DISPLAY: block; FONT-SIZE: 0px
+}
+.float0831 .floatR {
+	BACKGROUND: url("images/float_bg[1].gif")
+}
+.float0831 .tp {
+	BACKGROUND: url("images/float_bg[1].gif")
+}
+.float0831 .cn {
+	BACKGROUND: url("images/float_bg[1].gif")
+}
+.float0831 .floatR {
+	PADDING-BOTTOM: 15px; WIDTH: 130px; BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: -131px bottom; FLOAT: left; OVERFLOW: hidden
+}
+.float0831 .tp {
+	BACKGROUND-REPEAT: no-repeat; BACKGROUND-POSITION: 0% 0%; HEIGHT: 10px
+}
+.float0831 .cn {
+	BACKGROUND-REPEAT: repeat-y; BACKGROUND-POSITION: -262px 0px
+}
+.float0831 .cn H3 {
+	TEXT-INDENT: -9999px; HEIGHT: 36px; FONT-SIZE: 0px
+}
+.float0831 .cn UL {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 14px; PADDING-RIGHT: 14px; PADDING-TOP: 0px
+}
+.float0831 .cn UL LI {
+	BORDER-BOTTOM: #e6e5e4 1px solid; LINE-HEIGHT: 36px; WORD-WRAP: break-word; HEIGHT: 36px; OVERFLOW: hidden; WORD-BREAK: normal
+}
+.float0831 .titZx {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .titDh {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .titDc {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .icoZx {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .icoTc {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .icoFf {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .icoTl {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .btnOpen {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .btnOpen_n {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .btnCtn {
+	BACKGROUND: url("images/float_s[1].gif") no-repeat
+}
+.float0831 .titZx {
+	BACKGROUND-POSITION: 5px -10px
+}
+.float0831 .titDh {
+	BACKGROUND-POSITION: 5px -66px
+}
+.float0831 .titDc {
+	BACKGROUND-POSITION: 5px -124px
+}
+.float0831 .icoZx {
+	BACKGROUND-POSITION: 2px -154px
+}
+.float0831 .icoTc {
+	BACKGROUND-POSITION: 0px -323px
+}
+.float0831 .qqOn {
+	display:block;margin:6px 0px 0px 15px;
+}
+.float0831 .icoFf {
+	BACKGROUND-POSITION: 2px -213px
+}
+.float0831 .icoTl {
+	PADDING-LEFT: 20px; DISPLAY: block; FONT-FAMILY: "微软雅黑"; BACKGROUND-POSITION: 2px -266px; FLOAT: left
+}
+.float0831 .btnOpen {
+	BACKGROUND-POSITION: -30px -396px
+}
+.float0831 .btnOpen_n {
+	BACKGROUND-POSITION: 0px -530px
+}
+.float0831 .btnCtn {
+	BACKGROUND-POSITION: 0px -396px
+}
+.float0831 .icoZx {
+	PADDING-LEFT: 28px; DISPLAY: block; FLOAT: left
+}
+.float0831 .icoTc {
+	PADDING-LEFT: 28px; DISPLAY: block; FLOAT: left
+}
+.float0831 .icoFf {
+	PADDING-LEFT: 28px; DISPLAY: block; FLOAT: left
+}
+.float0831 .btnOpen {
+	POSITION: relative; WIDTH: 28px; HEIGHT: 118px; TOP: 80px; LEFT: 2px
+}
+.float0831 .btnOpen_n {
+	POSITION: relative; WIDTH: 28px; HEIGHT: 118px; TOP: 80px; LEFT: 2px
+}
+.float0831 .btnCtn {
+	POSITION: relative; WIDTH: 28px; HEIGHT: 118px; TOP: 80px; LEFT: 2px
+}
+.float0831 .btnOpen {
+	TOP: 70px; LEFT: 1px
+}
+.float0831 .btnOpen_n {
+	TOP: 70px; LEFT: 1px
+}
+.float0831 .btnCtn {
+	TOP: 70px; LEFT: 2px
+}
+.float0831 UL LI H3.titDc A {
+	WIDTH: 80px; DISPLAY: block; HEIGHT: 36px
+}
+.float0831 UL LI.top {
+	BORDER-BOTTOM: #ace5f9 1px solid
+}
+.float0831 UL LI.bot {
+	BORDER-BOTTOM-STYLE: none
+}
+.float0831 UL.webZx {
+	PADDING-BOTTOM: 0px; PADDING-LEFT: 0px; WIDTH: 164px; PADDING-RIGHT: 0px; BACKGROUND: url("images/webZx_bg[1].jpg") no-repeat; HEIGHT: 65px; PADDING-TOP: 0px
+}
+.float0831 UL LI.webZx-in {
+	BORDER-BOTTOM-STYLE: none; PADDING-LEFT: 5px; HEIGHT: 50px; PADDING-TOP: 8px
+}
+#divFloatToolsView{display:none;}

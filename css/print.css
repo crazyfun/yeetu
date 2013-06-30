@@ -1,0 +1,17 @@
+.print{padding:20px 0;margin:0px 20px;line-height:20px;}
+p{padding:0;margin:0;}
+.p_trave_name{text-align:center;font-size:18px;font-weight:bold;}
+.p_title{text-align:right;}
+.p_title span{padding:10px 10px;font-size:14px;}
+.p_trave_route{margin:20px 20px 0 20px;}
+.p_trave_details{margin:0 20px;}
+.p_details_title{font-size:16px;font-weight:bold;background-color:#eaeaea;padding:10px 5px;}
+.p_details_content{padding:10px 20px;border:1px solid #cccccc;}
+.p_route_day{font-size:14px;font-weight:bold;margin-right:10px;}
+.p_trave_route_desc,.p_trave_hotel_desc{padding:0 20px;}
+
+.p_route_dinning_name{font-size:14px;font-weight:bold;margin-right:10px;}
+.p_route_stay_name{font-size:14px;font-weight:bold;margin-right:10px;}
+.p_route_dinning,.p_route_stay{margin:10px 0;}
+.p_footer{text-align:right;}
+.p_footer span{padding:10px 10px;font-size:14px;}
